@@ -2,9 +2,7 @@
 ## 我的日常快捷键配置
 这是我学习AHK以来逐渐修改形成的一个日常快捷键集合。这个脚本让我用一种高效的方式使用我的电脑。  
 
-如果你还不熟悉AutoHotkey，可以先读一下前两篇文章：  
-[AutoHotkey——自动化你的生活](http://withlihui.com/autohotkey-automate-your-life/)  
-[AutoHotkey——进阶应用与思考](http://withlihui.com/autohotkey-advanced-application-and-thinking/)  
+
 
 借由这个脚本，我可以：  
 
